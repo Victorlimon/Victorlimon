@@ -13,6 +13,9 @@ Bienvenido a mi perfil de GitHub. Soy un apasionado de la **programación** y el
 
 Mi interés en la **seguridad cibernética** me ha llevado a aprender sobre las técnicas y herramientas utilizadas en el **Red Team** (ofensivas) y el **Blue Team** (defensivas). Algunos de los temas que he explorado incluyen:
 - Criptografía
+- steganografia
+- forense
+- reversing
 - Análisis de vulnerabilidades
 - Técnicas de hacking ético
 - Defensa contra ciberataques
