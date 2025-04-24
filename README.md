@@ -13,9 +13,9 @@ Bienvenido a mi perfil de GitHub. Soy un apasionado de la **programación** y el
 
 Mi interés en la **seguridad cibernética** me ha llevado a aprender sobre las técnicas y herramientas utilizadas en el **Red Team** (ofensivas) y el **Blue Team** (defensivas). Algunos de los temas que he explorado incluyen:
 - Criptografía
-- steganografia
-- forense
-- reversing
+- Steganografia
+- Forense
+- Reversing
 - Análisis de vulnerabilidades
 - Técnicas de hacking ético
 - Defensa contra ciberataques
@@ -34,9 +34,8 @@ Estoy constantemente aprendiendo nuevas tecnologías y habilidades, y me gusta c
 
 ## 📫 Cómo contactarme
 
-- **Correo electrónico**: [tuemail@example.com](mailto:tuemail@example.com)
-- **LinkedIn**: [Tu Perfil de LinkedIn](https://www.linkedin.com/in/tu-perfil/)
-- **Twitter**: [@tuusuario](https://twitter.com/tuusuario)
+- **Correo electrónico**: [victorlimon.xc@gmail.com](victor:victorlimon.xc@gmail.com)
+- **LinkedIn**: [Perfil de LinkedIn](https://www.linkedin.com/in/victor-limon-zabala-1193312a7/)
 
 ¡Gracias por visitar mi perfil! 🚀
 
